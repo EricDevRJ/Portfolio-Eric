@@ -41,7 +41,7 @@ Bot AFK 24h para Minecraft Bedrock rodando em Ubuntu via Termux no Android. Tuto
 <br>
 `JavaScript` `Node.js` `Termux` `Linux`
 
-#### 🌐 [Portfólio Pessoal](https://github.com/eric107gamer-svg/Portfolio-Eric)
+#### 🌐 [Portfólio Pessoal](https://github.io/Eric-Campos-Site)
 Meu site pessoal de apresentação, construído com HTML e CSS, com design moderno e responsivo.
 <br>
 `HTML5` `CSS3` `JavaScript`
